@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "avoriaz": "^6.3.0",
+    "test": "^0.6.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
